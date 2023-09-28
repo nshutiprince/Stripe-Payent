@@ -50,3 +50,7 @@ In next step, now we have create new controller as WebHookController and write m
 All steps have been done, now you have to type the given command and hit enter to run the laravel app:
 
 php artisan serve
+
+## Tags
+
+php , laravel , stripe , database , payment
